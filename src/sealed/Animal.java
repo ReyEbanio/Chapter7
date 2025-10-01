@@ -1,5 +1,8 @@
 package sealed;
 
-public class Animal {
-
+public sealed class Animal permits Animal.Amphibians, Dog, Cat{
+	public final class Amphibians extends Animal{
+		
+	}
 }
+
