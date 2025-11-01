@@ -9,8 +9,7 @@ public class WashingMachine implements Appliance{
 
 //	@Override
 //	public void turnOff() {
-//		System.out.println("Washing maching turned off.");
+//		System.out.println("Washing machine turned off.");
 //	}
 	
-
 }
